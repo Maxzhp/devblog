@@ -35,3 +35,5 @@ decline—Results from a prospective memory clinic study. Int. Psychogeriatr. 28
 > 1.  Li, T. et al. Cognitive training can reduce the rate of cognitive aging: A neuroimaging cohort study. BMC Geriatr. 16, 12 (2016).
 > 1. van de Vijver, I., Ridderinkhof, K. R. & de Wit, S. Age-related changes in deterministic learning from positive versus negative
 performance feedback. Neuropsychol. Dev. Cogn. B Aging Neuropsychol. Cogn. 22, 595–619 (2015).
+
+-[Figure1](/devblog/Screenshot%202022-08-27%20212628.md.jpg)
