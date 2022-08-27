@@ -36,4 +36,16 @@ decline—Results from a prospective memory clinic study. Int. Psychogeriatr. 28
 > 1. van de Vijver, I., Ridderinkhof, K. R. & de Wit, S. Age-related changes in deterministic learning from positive versus negative
 performance feedback. Neuropsychol. Dev. Cogn. B Aging Neuropsychol. Cogn. 22, 595–619 (2015).
 
+## Research
+“The more you work on increasing your brainpower and memory, the more you’re able to potentially improve cognitive function. So, learning new tricks is actually great for you.’
+* You can learn to improve cognitive function at any age 
+
+“Traditional strategy-heavy board games like chess, backgammon, and checkers are wonderful brain games. In fact, studies indicate that people over 75 that play chess and checkers regularly appear less likely to develop dementia”
+
+“Card games are also a great choice for improving brain function. One study indicated that playing cards can not only improve memory and cognition, but it could also preserve brain structure in patients with signs of Alzheimer’s disease. So, yes, that means a game of rummy, poker, or crazy eights could boost your memory function.”
+* Common card and strategy games can help boost brain function as well as memory. 
+* These studies show that regular exposure and involvement in playing these games can not only improve brain function and memory, but could also decrease the likelihood of getting brain related diseases such as alzheimers or developing dementia.
+
+
+
 -[Figure1](/devblog/Screenshot%202022-08-27%20212628.md.jpg)
