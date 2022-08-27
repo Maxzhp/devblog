@@ -23,7 +23,7 @@ Statistically signifcant differences were observed for the diferent CMG (p<0.001
 performance feedback. Neuropsychol. Dev. Cogn. B Aging Neuropsychol. Cogn. 22, 595–619 (2015).## CMG Score
 As for the initial scores, we observed an interesting linear trend between age and session, indicating that all participants improved in all CMG but that the progress was slower in older participants
 
--[Figure1](/devblog/graph.jpeg.jpg)
+![Figure1](/devblog/figure-1-brain-research.jpg)
 
 ## Discussion
 
